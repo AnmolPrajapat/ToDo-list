@@ -1,0 +1,36 @@
+*{
+   margin: 0px;
+   padding: 0px; 
+}
+.container1{
+    /* text-align: center; */
+    width: 50%;
+    margin:50px 150px;
+    /* background: darkolivegreen; */
+    border: 4px rgb(22, 220,120) solid;
+    padding: 14px;
+    background: gray;
+    border-radius: 4px;
+}
+.container h2{
+    text-align:left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    border: 3px red solid;
+    padding: 2px 5px;
+    width: 30%;
+    background: royalblue;
+    align-self: center;
+    margin-left: 250px;
+    margin-bottom: 3px;
+     
+    
+}
+/* .container-fluid{
+    background:darkgray;
+    color: coral;
+    image-rendering: inherit;
+    image-orientation: initial;
+    
+} */
